@@ -1,0 +1,4 @@
+Using turtle .
+turtle is a module
+Turtle is a class
+winsound is presnt in windows
